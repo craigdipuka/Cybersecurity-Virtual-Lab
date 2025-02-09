@@ -1,4 +1,4 @@
-# 🏢 Cybersecurity Lab  
+# 🏢 Virtual Cybersecurity Lab  
 🚀 **A Hands-On Virtual Lab for Cybersecurity Enthusiasts**  
 
 ## 📌 Overview  
