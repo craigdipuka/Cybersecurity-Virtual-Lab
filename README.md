@@ -2,9 +2,18 @@
 🚀 **A Hands-On Virtual Lab for Cybersecurity Enthusiasts**  
 
 ## 📌 Overview  
-Welcome to the **Torium Crescent Cybersecurity Lab**, a **virtual enterprise network** designed for learning **network security, system administration, and penetration testing**.  
+Welcome to the **Crescent Cybersecurity Lab**, a **virtual enterprise network** designed for learning **network security, system network analysis and penetration testing**.  
 
-This project simulates a **corporate environment** for a fictional real estate company, **Torium Crescent**, and covers both **Blue Team (defensive)** and **Red Team (offensive)** cybersecurity practices.  
+This project simulates a **corporate environment** for a fictional real estate company, **Crescent**, and covers both **Blue Team (defensive)** and **Red Team (offensive)** cybersecurity practices.  
+
+## Scenario 
+- We have been contracted to Crescent Real Estate to overhaul their IT ifrastructure and systems
+- Currently they have 50 staff connected on the network , no central file share or storage , no backups , no monitoring or anti virus 
+and no user management
+- Mr Maxwell the principle agent , has become concerned about this and has requested that we centralize his IT resources , data and user management
+ so that he has better control of his resources 
+- He is also concerned about cyber security and has read more about Ransomware and wants us to harden , monitor anf defend his network
+
 
 ## 🎯 Objectives  
 🔹 **Network Security** – Build and secure a corporate-style network.  
