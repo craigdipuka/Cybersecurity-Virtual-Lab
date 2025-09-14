@@ -35,7 +35,8 @@ and no user management
 
 ## 🏗️ Lab Architecture  
 ### **Network Diagram**  
-![Network Diagram](Images/network_diagram.png) *(Coming soon!)*  
+![Network Diagram]
+![alt text](<Crescent Lab Structure.png>) *(Coming soon!)*  
 
 The network consists of:  
 ✅ **Firewall & Edge Security** – OPNsense for traffic control & monitoring.  
